@@ -1492,7 +1492,7 @@ body:not(.page-template) .post-title {
     content: "Read This Next";
 }
 .read-next-story.prev:lang(fr) .post:before {
-    content: "Vous allez aimé";
+    content: "Vous allez aimer";
 }
 .read-next-story.prev:lang(en) .post:before {
     content: "You Might Enjoy";
